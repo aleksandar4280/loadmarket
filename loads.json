@@ -1,0 +1,48 @@
+{
+	"loads": [
+		{
+			"id": 1,
+			"truck_type": "sanducar",
+			"origin": "Nis",
+			"destination": "Beograd",
+			"mileage": 230,
+			"company": "Focus Trans",
+			"phone": "018222333",
+			"weight": 24000,
+			"price": 375
+		},
+		{
+			"id": 2,
+			"truck_type": "sanducar",
+			"origin": "Zajecar",
+			"destination": "Beograd",
+			"mileage": 230,
+			"company": "Focus Trans",
+			"phone": "018222333",
+			"weight": 24000,
+			"price": 210
+		},
+		{
+			"id": 3,
+			"truck_type": "sanducar",
+			"origin": "Nis",
+			"destination": "Beograd",
+			"mileage": 230,
+			"company": "Focus Trans",
+			"phone": "018222333",
+			"weight": 18000,
+			"price": 920
+		},
+		{
+			"id": 4,
+			"truck_type": "kiper",
+			"origin": "Nis",
+			"destination": "Beograd",
+			"mileage": 225,
+			"company": "Focus Trans",
+			"phone": "018222333",
+			"weight": 24000,
+			"price": 850
+		}
+	]
+}
